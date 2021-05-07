@@ -9,6 +9,10 @@ Download code and unzip it
 Run:
 `Python file_seperator.py`
 
+Or
+
+Install the CLI from Release section
+
 if you find this usefull then give this repositree a star.
 
 Thanks!
